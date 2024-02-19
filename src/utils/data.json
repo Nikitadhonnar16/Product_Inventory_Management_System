@@ -1,0 +1,21 @@
+[
+    {
+        "name": "Electric Bike Charger",
+        "manufacturer": "evpe",
+        "price": 5000,
+        "quantity": 4
+    },
+     {
+        "name": "Tires",
+        "manufacturer": "ola",
+        "price": 4000,
+        "quantity": 4
+    },
+    {
+        "name": "Batteries",
+        "manufacturer": "Ather",
+        "price": 20000,
+        "quantity": 3
+    }
+
+]
